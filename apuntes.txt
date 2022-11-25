@@ -10,3 +10,5 @@ UseEffect es un hook de react que sirve para disparar efectos secundarios
 algun proceso que se ejecute cuando algo sucede
 
 npm run build  (para constrir aplicacion en produccion)
+
+git checkout -- .  //para reconstrir el ultimo commit
