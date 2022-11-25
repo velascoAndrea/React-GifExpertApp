@@ -1,0 +1,12 @@
+1. npm create vite
+2. RAFC (para crear la plantilla rapido) para crear functional component
+3. npm run dev (para correrlo)
+4. No poner Condicionalmente los Hooks
+
+
+Strictmode se desactiva en el Main solo se aplica en desarrollo
+
+UseEffect es un hook de react que sirve para disparar efectos secundarios
+algun proceso que se ejecute cuando algo sucede
+
+npm run build  (para constrir aplicacion en produccion)
